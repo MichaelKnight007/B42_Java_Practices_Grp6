@@ -3,6 +3,5 @@ package week_10_ArrayList;
 public class Test {
     public static void main(String[] args) {
         System.out.println("Hello friends.");
-        System.out.println("Hello grp-6.");
     }
 }

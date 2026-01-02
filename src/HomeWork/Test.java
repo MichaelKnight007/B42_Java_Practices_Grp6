@@ -1,7 +1,11 @@
-package week_10_ArrayList;
+package HomeWork;
 
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Hello friends.");
+
+        System.out.println("Class Created!");
+
+
+
     }
 }
